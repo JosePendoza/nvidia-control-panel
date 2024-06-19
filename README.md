@@ -1,5 +1,7 @@
 # nvidia-control-panel
 
+<img src="https://github.com/JosePendoza/nvidia-control-panel/blob/main/nv.png"/>
+
 🔥🔥🔥 NVIDIA CEO Describes How AI Will Transform Electric Grid
 
 *At Edison Electric Institute (EEI) 2024, Jensen Huang describes how accelerated computing improves data center energy efficiency, enhances grid resiliency, and reduces energy costs*
