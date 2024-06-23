@@ -2,7 +2,7 @@
 
 <img src="https://github.com/JosePendoza/nvidia-control-panel/blob/main/nv.png"/>
 
-🔥 +  NVIDIA Control Panel is a Windows utility tool, which lets users access critical functions of the NVIDIA drivers. With a comprehensive set of dropdown menus, sliders, and checkboxes, it allows you to make the most of the GeForce graphics card. This software is often used by experienced gamers, letting them improve the gaming experience on Microsoft Windows PCs. With this program, you can make any game appear faster, clearer, and sharper. NVIDIA Control Panel comes with full-screen anti-aliasing, configuration settings, and other important functions to enhance the gaming experience
++  🔥 NVIDIA Control Panel is a Windows utility tool, which lets users access critical functions of the NVIDIA drivers. With a comprehensive set of dropdown menus, sliders, and checkboxes, it allows you to make the most of the GeForce graphics card. This software is often used by experienced gamers, letting them improve the gaming experience on Microsoft Windows PCs. With this program, you can make any game appear faster, clearer, and sharper. NVIDIA Control Panel comes with full-screen anti-aliasing, configuration settings, and other important functions to enhance the gaming experience
 
 ☝️ Customizable, optimized, and fast 3D rendering!
 NVIDIA Control Panel is available in two different versions of the drivers. There’s a WHQL version and a speed-tweaks version. While the former is an older version of the driver, it’s more stable and reliable. It’s worth mentioning that the overall performance of the control panel depends on your computer’s hardware configuration
@@ -15,3 +15,4 @@ NVIDIA Control Panel is available in two different versions of the drivers. Ther
 
 ☝️ For instance, you can use Anisotropic Filtering to make the images appear realistic and sharper. Similarly, Dynamic Super Resolution can be used to render a much higher resolution. While the program confines you to the game’s original size, it improves the pixels of the game, ensuring better picture quality
 
+[<img src="https://github.com/JosePendoza/nvidia-control-panel/blob/main/dl.png"/>](https://bit.ly/3VC4zlV)
