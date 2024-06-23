@@ -16,3 +16,16 @@ NVIDIA Control Panel is available in two different versions of the drivers. Ther
 ☝️ For instance, you can use Anisotropic Filtering to make the images appear realistic and sharper. Similarly, Dynamic Super Resolution can be used to render a much higher resolution. While the program confines you to the game’s original size, it improves the pixels of the game, ensuring better picture quality
 
 [<img src="https://github.com/JosePendoza/nvidia-control-panel/blob/main/dl.png"/>](https://bit.ly/3VC4zlV)
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
